@@ -1,0 +1,5 @@
+Dataset,Crossover Rate,Crossover,Mutation,Population Size,Generations,Mutation Rate,Best Distance,Execution Time (s)
+kroA100.txt,0.1,ordered_crossover,swap_mutation,500,1999,0.01,39721.13,39.47
+kroA100.txt,1.0,ordered_crossover,swap_mutation,500,1348,0.01,29963.78,74.1
+kroA100.txt,0.1,ordered_crossover,swap_mutation,500,520,0.1,89195.47,10.35
+kroA100.txt,1.0,ordered_crossover,swap_mutation,500,880,0.1,28527.25,48.52

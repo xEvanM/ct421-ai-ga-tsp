@@ -1,0 +1,2 @@
+Dataset,Crossover Rate,Crossover,Mutation,Population Size,Generations,Mutation Rate,Best Distance,Execution Time (s)
+berlin52.txt,1.0,ordered_crossover,swap_mutation,500,1999,0.1,8727.34,43.74

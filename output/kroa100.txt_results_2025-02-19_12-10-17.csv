@@ -1,0 +1,2 @@
+Dataset,Crossover Rate,Crossover,Mutation,Population Size,Generations,Mutation Rate,Tournament Size,Best Distance,Execution Time (s)
+kroa100.txt,0.5,ordered_crossover,swap_mutation,2000,490,0.1,5,26821.06,76.48

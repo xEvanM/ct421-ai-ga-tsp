@@ -1,0 +1,2 @@
+Dataset,Crossover Rate,Crossover,Mutation,Population Size,Generations,Mutation Rate,Tournament Size,Best Distance,Execution Time (s)
+pr1002.txt,0.5,ordered_crossover,swap_mutation,2000,499,0.1,5,2703139.08,4208.11

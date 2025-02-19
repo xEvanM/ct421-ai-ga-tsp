@@ -1,0 +1,19 @@
+Dataset,Crossover Rate,Crossover,Mutation,Population Size,Generations,Mutation Rate,Best Distance,Execution Time (s)
+kroA100.txt,0.1,ordered_crossover,swap_mutation,500,483,0.01,50752.77,9.58
+kroA100.txt,0.5,ordered_crossover,swap_mutation,500,499,0.01,43095.94,17.9
+kroA100.txt,1.0,ordered_crossover,swap_mutation,500,426,0.01,38024.55,23.49
+kroA100.txt,0.1,ordered_crossover,swap_mutation,500,112,0.1,104872.94,2.32
+kroA100.txt,0.5,ordered_crossover,swap_mutation,500,499,0.1,36819.07,17.81
+kroA100.txt,1.0,ordered_crossover,swap_mutation,500,499,0.1,31899.65,27.52
+kroA100.txt,0.1,ordered_crossover,swap_mutation,500,999,0.01,50240.67,19.81
+kroA100.txt,0.5,ordered_crossover,swap_mutation,500,999,0.01,41316.53,35.57
+kroA100.txt,1.0,ordered_crossover,swap_mutation,500,999,0.01,36244.3,54.93
+kroA100.txt,0.1,ordered_crossover,swap_mutation,500,219,0.1,101456.38,4.41
+kroA100.txt,0.5,ordered_crossover,swap_mutation,500,791,0.1,43548.24,28.19
+kroA100.txt,1.0,ordered_crossover,swap_mutation,500,891,0.1,33198.78,49.02
+kroA100.txt,0.1,ordered_crossover,swap_mutation,500,1999,0.01,50657.15,39.62
+kroA100.txt,0.5,ordered_crossover,swap_mutation,500,1999,0.01,38988.79,71.47
+kroA100.txt,1.0,ordered_crossover,swap_mutation,500,1340,0.01,32636.69,73.96
+kroA100.txt,0.1,ordered_crossover,swap_mutation,500,321,0.1,104737.33,6.41
+kroA100.txt,0.5,ordered_crossover,swap_mutation,500,1999,0.1,32416.41,71.02
+kroA100.txt,1.0,ordered_crossover,swap_mutation,500,1140,0.1,30320.3,63.15
